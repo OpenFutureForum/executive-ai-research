@@ -1,7 +1,7 @@
 # Executive AI Research
 
 [![DOI](https://zenodo.org/badge/1312253721.svg)](https://doi.org/10.5281/zenodo.21576019)
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/murraylovecode/executive-ai-research/)](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/OpenFutureForum/executive-ai-research/)](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/OpenFutureForum/executive-ai-research)
 
 **Repository DOI:** 10.5281/zenodo.21576019
 Archived via Zenodo and Software Heritage.
@@ -93,6 +93,7 @@ This research library is maintained by Open Future Forum.
 - Canonical research: https://openfutureforum.com/research/
 - GitHub repository: https://github.com/OpenFutureForum/executive-ai-research
 - Zenodo DOI: https://doi.org/10.5281/zenodo.21576019
+- Software Heritage archive (current organization origin): https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/OpenFutureForum/executive-ai-research
 - Software Heritage archive (legacy repository origin): https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research
 
 Individual Open Future Forum reports should be cited using their report-specific canonical URL and DOI where available.
