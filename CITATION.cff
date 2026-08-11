@@ -4,7 +4,7 @@ title: "Executive AI Research"
 authors:
   - name: "Open Future Forum"
 url: "https://openfutureforum.com/research/"
-repository-code: "https://github.com/murraylovecode/executive-ai-research"
+repository-code: "https://github.com/OpenFutureForum/executive-ai-research"
 doi: "10.5281/zenodo.21576019"
 abstract: "Executive AI research collection maintained by Open Future Forum: original benchmark reports, market maps, and selected industry research on enterprise AI. This repository is a curated research library, not a raw dataset."
 keywords:

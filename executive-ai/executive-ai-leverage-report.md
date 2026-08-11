@@ -32,7 +32,7 @@ This is explicitly labeled a preview edition. Quantitative findings come from an
 - [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
 - [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
 
-The findings can be placed in a wider peer-network context using the [published Executive Communities Index](https://murraylovecode.github.io/executive-communities-index/) and its [open dataset repository](https://github.com/murraylovecode/executive-communities-index). Operators turning these issues into executive programming can use the [Executive Community Playbook](https://murraylovecode.github.io/executive-community-playbook/) and its [reusable source materials](https://github.com/murraylovecode/executive-community-playbook).
+The findings can be placed in a wider peer-network context using the [published Executive Communities Index](https://openfutureforum.github.io/executive-communities-index/) and its [open dataset repository](https://github.com/OpenFutureForum/executive-communities-index). Operators turning these issues into executive programming can use the [Executive Community Playbook](https://openfutureforum.github.io/executive-community-playbook/) and its [reusable source materials](https://github.com/OpenFutureForum/executive-community-playbook).
 
 ## Citation
 

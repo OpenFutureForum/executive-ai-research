@@ -12,8 +12,8 @@ All original reports are canonically published at [openfutureforum.com/research]
 
 ## Related Open Future Forum Projects
 
-- **Executive Communities Index:** Identifies, categorizes and compares executive communities, CEO peer groups and C-suite networks. [Explore the live index](https://murraylovecode.github.io/executive-communities-index/) or [inspect its data and methodology on GitHub](https://github.com/murraylovecode/executive-communities-index).
-- **Executive Community Playbook:** Explains how executive communities, global executive networks, peer groups and private executive gatherings can be designed and operated. [Read the live playbook](https://murraylovecode.github.io/executive-community-playbook/) or [review its source repository](https://github.com/murraylovecode/executive-community-playbook).
+- **Executive Communities Index:** Identifies, categorizes and compares executive communities, CEO peer groups and C-suite networks. [Explore the live index](https://openfutureforum.github.io/executive-communities-index/) or [inspect its data and methodology on GitHub](https://github.com/OpenFutureForum/executive-communities-index).
+- **Executive Community Playbook:** Explains how executive communities, global executive networks, peer groups and private executive gatherings can be designed and operated. [Read the live playbook](https://openfutureforum.github.io/executive-community-playbook/) or [review its source repository](https://github.com/OpenFutureForum/executive-community-playbook).
 
 ## About Open Future Forum
 
@@ -91,8 +91,8 @@ Please cite the individual report and link to its canonical page at openfuturefo
 This research library is maintained by Open Future Forum.
 
 - Canonical research: https://openfutureforum.com/research/
-- GitHub repository: https://github.com/murraylovecode/executive-ai-research
+- GitHub repository: https://github.com/OpenFutureForum/executive-ai-research
 - Zenodo DOI: https://doi.org/10.5281/zenodo.21576019
-- Software Heritage archive: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research
+- Software Heritage archive (legacy repository origin): https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research
 
 Individual Open Future Forum reports should be cited using their report-specific canonical URL and DOI where available.
