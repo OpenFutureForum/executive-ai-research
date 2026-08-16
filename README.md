@@ -8,12 +8,17 @@ Archived via Zenodo and Software Heritage.
 
 Executive AI Research is an open research library maintained by Open Future Forum, bringing together original OFF benchmark research and selected third-party research on enterprise AI, executive leadership, finance, cybersecurity, marketing, and private equity.
 
+**Browse the public library:** [openfutureforum.github.io/executive-ai-research](https://openfutureforum.github.io/executive-ai-research/)
+
 All original reports are canonically published at [openfutureforum.com/research](https://openfutureforum.com/research/). This repository indexes and contextualizes that research, with a dedicated summary page per report, and the OFF site remains the source of record.
 
 ## Related Open Future Forum Projects
 
+- **Open Research Directory:** Connects the organization’s public research, indexes, playbooks and source repositories. [Explore the directory](https://openfutureforum.github.io/).
+- **CXO Ecosystem Index:** Maps companies, communities, advisors and resources serving leaders across the C-suite. [Explore the live index](https://openfutureforum.github.io/cxo-ecosystem-index/) or [inspect its data and methodology on GitHub](https://github.com/OpenFutureForum/cxo-ecosystem-index).
 - **Executive Communities Index:** Identifies, categorizes and compares executive communities, CEO peer groups and C-suite networks. [Explore the live index](https://openfutureforum.github.io/executive-communities-index/) or [inspect its data and methodology on GitHub](https://github.com/OpenFutureForum/executive-communities-index).
 - **Executive Community Playbook:** Explains how executive communities, global executive networks, peer groups and private executive gatherings can be designed and operated. [Read the live playbook](https://openfutureforum.github.io/executive-community-playbook/) or [review its source repository](https://github.com/OpenFutureForum/executive-community-playbook).
+- **Executive Intelligence Index:** Develops a cited map of books, people, research, ideas, evidence and media shaping executive decision-making. [Review the current public repository](https://github.com/OpenFutureForum/executive-intelligence-index).
 
 ## About Open Future Forum
 

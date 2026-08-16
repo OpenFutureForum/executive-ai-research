@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlparse
@@ -22,6 +23,9 @@ class SiteParser(HTMLParser):
         self.headings: list[int] = []
         self.report_cards = 0
         self.industry_links = 0
+        self.canonical: list[str] = []
+        self.json_ld: list[str] = []
+        self._json_ld_buffer: list[str] | None = None
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         values = dict(attrs)
@@ -35,10 +39,23 @@ class SiteParser(HTMLParser):
             self.scripts.append(values["src"])
         if tag == "link" and values.get("rel") == "stylesheet" and values.get("href"):
             self.styles.append(values["href"])
+        if tag == "link" and values.get("rel") == "canonical" and values.get("href"):
+            self.canonical.append(values["href"])
+        if tag == "script" and values.get("type") == "application/ld+json":
+            self._json_ld_buffer = []
         if tag in {"h1", "h2", "h3", "h4", "h5", "h6"}:
             self.headings.append(int(tag[1]))
         if tag == "article" and "report-card" in (values.get("class") or "").split():
             self.report_cards += 1
+
+    def handle_data(self, data: str) -> None:
+        if self._json_ld_buffer is not None:
+            self._json_ld_buffer.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag == "script" and self._json_ld_buffer is not None:
+            self.json_ld.append("".join(self._json_ld_buffer))
+            self._json_ld_buffer = None
 
 
 def local_path(reference: str) -> Path | None:
@@ -72,6 +89,10 @@ def main() -> None:
     assert parser.headings.count(1) == 1, "The page must contain exactly one H1"
     assert parser.report_cards == 14, f"Expected 14 report cards, found {parser.report_cards}"
     assert parser.industry_links == 5, f"Expected 5 industry collections, found {parser.industry_links}"
+    assert parser.canonical == ["https://openfutureforum.github.io/executive-ai-research/"], "Unexpected canonical URL"
+    assert parser.json_ld, "JSON-LD is required"
+    for block in parser.json_ld:
+        json.loads(block)
 
     for reference in parser.links + parser.scripts + parser.styles:
         parsed = urlparse(reference)
