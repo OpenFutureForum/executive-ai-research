@@ -56,6 +56,7 @@ def main() -> None:
         DOCS / "index.html",
         DOCS / "styles.css",
         DOCS / "app.js",
+        DOCS / "favicon.svg",
         DOCS / "robots.txt",
         DOCS / "sitemap.xml",
         DOCS / ".nojekyll",
