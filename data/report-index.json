@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "publisher": "Open Future Forum",
+  "canonical_index": "https://openfutureforum.com/research/",
+  "reviewed": "2026-09-08",
+  "reports": [
+    {
+      "id": "executive-ai-leverage-2026-09",
+      "title": "Executive AI Leverage Report, September 2026",
+      "edition": "3",
+      "publication_month": "2026-09",
+      "scope": "Cross-role synthesis of enterprise AI buying, budgets, ownership, and accountability.",
+      "canonical_url": "https://openfutureforum.com/research/executive-ai-leverage-report-september-2026",
+      "repository_record": "executive-ai/README.md"
+    },
+    {
+      "id": "cfo-ai-leverage-2026-09",
+      "title": "CFO AI Leverage Report, September 2026",
+      "edition": "3",
+      "publication_month": "2026-09",
+      "scope": "Finance-lane report on AI funding, approval, and return expectations.",
+      "canonical_url": "https://openfutureforum.com/research/cfo-ai-leverage-report-september-2026",
+      "repository_record": "cfo-ai/README.md"
+    },
+    {
+      "id": "ceo-ai-leverage-2026-09",
+      "title": "CEO AI Leverage Report, September 2026",
+      "edition": "3",
+      "publication_month": "2026-09",
+      "scope": "Chief-executive-lane report on AI ownership, sign-off, and payback expectations.",
+      "canonical_url": "https://openfutureforum.com/research/ceo-ai-leverage-report-september-2026",
+      "repository_record": "ceo-ai/README.md"
+    },
+    {
+      "id": "ciso-ai-leverage-2026-09",
+      "title": "CISO AI Leverage Report, September 2026",
+      "edition": "3",
+      "publication_month": "2026-09",
+      "scope": "Security-lane report on AI-agent access, governance problems, and security funding.",
+      "canonical_url": "https://openfutureforum.com/research/ciso-ai-leverage-report-september-2026",
+      "repository_record": "ciso-ai/README.md"
+    },
+    {
+      "id": "cmo-ai-leverage-2026-09",
+      "title": "CMO AI Leverage Report, September 2026",
+      "edition": "3",
+      "publication_month": "2026-09",
+      "scope": "Marketing-lane report on AI-agent adoption and reported operating effects.",
+      "canonical_url": "https://openfutureforum.com/research/cmo-ai-leverage-report-september-2026",
+      "repository_record": "cmo-ai/README.md"
+    },
+    {
+      "id": "ai-transformation-2026-09",
+      "title": "AI Transformation Report, September 2026",
+      "edition": "2",
+      "publication_month": "2026-09",
+      "scope": "Cross-function report on AI deployment, funding, and operating-model change.",
+      "canonical_url": "https://openfutureforum.com/research/ai-transformation-report-september-2026",
+      "repository_record": "ai-transformation/README.md"
+    },
+    {
+      "id": "vc-cvc-ai-investment-2026-09",
+      "title": "VC & CVC AI Investment Report, September 2026",
+      "edition": "2",
+      "publication_month": "2026-09",
+      "scope": "Capital-lane report on AI investment conviction and portfolio ownership.",
+      "canonical_url": "https://openfutureforum.com/research/vc-cvc-ai-investment-report-september-2026",
+      "repository_record": "vc-cvc-ai/README.md"
+    },
+    {
+      "id": "yc-founder-ai-2026-09",
+      "title": "YC Founder AI Report, September 2026",
+      "edition": "2",
+      "publication_month": "2026-09",
+      "scope": "Founder-lane report on AI pricing models and enterprise buying roles.",
+      "canonical_url": "https://openfutureforum.com/research/yc-founder-ai-report-september-2026",
+      "repository_record": "yc-founder-ai/README.md"
+    },
+    {
+      "id": "investor-ai-2026-09",
+      "title": "Investor AI Report, September 2026",
+      "edition": "1 note",
+      "publication_month": "2026-09",
+      "scope": "Investor-lane report on AI ownership and measurable effects across portfolios.",
+      "canonical_url": "https://openfutureforum.com/research/investor-ai-report-september-2026",
+      "repository_record": "investor-ai/README.md"
+    },
+    {
+      "id": "ai-leaders-ai-leverage-2026-09",
+      "title": "AI Leaders AI Leverage Report",
+      "edition": "preview",
+      "publication_month": "2026-09",
+      "scope": "Technology-seat preview on authority, ownership, and enterprise AI operations.",
+      "canonical_url": "https://openfutureforum.com/research/ai-leaders-ai-leverage-report",
+      "repository_record": "ai-leaders-ai/README.md"
+    },
+    {
+      "id": "board-director-ai-governance-2026-09",
+      "title": "Board Director AI Governance Report",
+      "edition": "preview",
+      "publication_month": "2026-09",
+      "scope": "Board-seat preview framing enterprise AI ownership and risk as governance questions.",
+      "canonical_url": "https://openfutureforum.com/research/board-director-ai-governance-report",
+      "repository_record": "board-director-ai/README.md"
+    },
+    {
+      "id": "private-equity-ai-2026-09",
+      "title": "Private Equity AI Report, September 2026",
+      "edition": "synthesis",
+      "publication_month": "2026-09",
+      "scope": "Dealmaker synthesis for AI due diligence and portfolio operations.",
+      "canonical_url": "https://openfutureforum.com/research/dealmakers/private-equity",
+      "repository_record": "private-equity-ai/README.md"
+    },
+    {
+      "id": "investment-banking-ai-2026-09",
+      "title": "Investment Banking AI Report, September 2026",
+      "edition": "synthesis",
+      "publication_month": "2026-09",
+      "scope": "Dealmaker synthesis on AI pricing, revenue quality, valuation, and transaction readiness.",
+      "canonical_url": "https://openfutureforum.com/research/dealmakers/investment-banking",
+      "repository_record": "investment-banking-ai/README.md"
+    },
+    {
+      "id": "general-counsel-ai-2026-09",
+      "title": "General Counsel AI Report, September 2026",
+      "edition": "synthesis",
+      "publication_month": "2026-09",
+      "scope": "Legal synthesis on AI-agent responsibility, internal use, and vendor terms.",
+      "canonical_url": "https://openfutureforum.com/research/dealmakers/general-counsel",
+      "repository_record": "general-counsel-ai/README.md"
+    },
+    {
+      "id": "executive-ai-statistics-2026-09",
+      "title": "Executive AI Statistics, September 2026",
+      "edition": "September refresh",
+      "publication_month": "2026-09",
+      "scope": "Citable index of figures published in the September report set.",
+      "canonical_url": "https://openfutureforum.com/research/executive-ai-statistics-september-2026",
+      "repository_record": "executive-ai-statistics/README.md"
+    }
+  ]
+}

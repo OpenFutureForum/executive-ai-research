@@ -11,6 +11,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
+REPORT_INDEX = ROOT / "data" / "report-index.json"
 
 
 class SiteParser(HTMLParser):
@@ -77,6 +78,7 @@ def main() -> None:
         DOCS / "robots.txt",
         DOCS / "sitemap.xml",
         DOCS / ".nojekyll",
+        REPORT_INDEX,
     ]
     missing = [str(path.relative_to(ROOT)) for path in required if not path.exists()]
     assert not missing, f"Missing site files: {', '.join(missing)}"
@@ -87,12 +89,29 @@ def main() -> None:
     assert len(parser.ids) == len(set(parser.ids)), "Duplicate HTML IDs found"
     assert parser.headings and parser.headings[0] == 1, "The first heading must be H1"
     assert parser.headings.count(1) == 1, "The page must contain exactly one H1"
-    assert parser.report_cards == 14, f"Expected 14 report cards, found {parser.report_cards}"
+    assert parser.report_cards == 19, f"Expected 19 report cards, found {parser.report_cards}"
     assert parser.industry_links == 5, f"Expected 5 industry collections, found {parser.industry_links}"
     assert parser.canonical == ["https://openfutureforum.github.io/executive-ai-research/"], "Unexpected canonical URL"
     assert parser.json_ld, "JSON-LD is required"
     for block in parser.json_ld:
         json.loads(block)
+
+    report_index = json.loads(REPORT_INDEX.read_text(encoding="utf-8"))
+    reports = report_index.get("reports", [])
+    assert len(reports) == 15, f"Expected 15 current reports, found {len(reports)}"
+    ids = [report.get("id") for report in reports]
+    urls = [report.get("canonical_url") for report in reports]
+    assert len(ids) == len(set(ids)), "Duplicate report IDs found"
+    assert len(urls) == len(set(urls)), "Duplicate canonical report URLs found"
+    for report in reports:
+        for field in ("id", "title", "edition", "publication_month", "scope", "canonical_url", "repository_record"):
+            assert report.get(field), f"Missing {field} in report index entry"
+        assert report["canonical_url"].startswith("https://openfutureforum.com/research/"), (
+            f"Unexpected canonical report URL: {report['canonical_url']}"
+        )
+        assert (ROOT / report["repository_record"]).exists(), (
+            f"Missing repository record: {report['repository_record']}"
+        )
 
     for reference in parser.links + parser.scripts + parser.styles:
         parsed = urlparse(reference)

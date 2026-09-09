@@ -1,13 +1,8 @@
-# Private Equity & AI Research
+# Private Equity AI Report
 
-Planned research focused on private equity firms, investors, and portfolio company operators.
+Dealmaker synthesis translating enterprise AI buying and operating data into due-diligence and portfolio-operation questions.
 
-## Status
+**Edition:** Synthesis report, September 2026<br>
+**Canonical publication:** [Private Equity AI Report, September 2026](https://openfutureforum.com/research/dealmakers/private-equity)
 
-Not yet published. This category is reserved for a future Open Future Forum report on AI adoption across private equity and portfolio operations. Check [openfutureforum.com/research](https://openfutureforum.com/research/) for the current list of published reports.
-
-## Publisher
-
-Open Future Forum
-https://openfutureforum.com
-https://openfutureforum.com/research/
+The canonical publication contains the report text, figures, methodology, and limitations. This repository record identifies its place in the research series.
