@@ -4,7 +4,7 @@ Investor-side AI research reading how AI is showing up across whole venture, gro
 
 ## Reports
 
-- Investor AI Report — [summary](investor-ai-report.md) | [canonical source](https://openfutureforum.com/research/investor-ai-report)
+- Investor AI Report, September 2026 — [prior-edition repository summary](investor-ai-report.md) | [canonical current edition](https://openfutureforum.com/research/investor-ai-report-september-2026)
 
 - ## About
 

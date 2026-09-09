@@ -4,7 +4,7 @@ Cross-functional executive AI research published by Open Future Forum.
 
 ## Reports
 
-- Executive AI Leverage Report — [summary](executive-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/executive-ai-leverage-report)
+- Executive AI Leverage Report, September 2026 — [prior-edition repository summary](executive-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/executive-ai-leverage-report-september-2026)
 
 ## About
 

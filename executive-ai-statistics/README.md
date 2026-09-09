@@ -4,7 +4,7 @@ A citable, continuously refreshed index of every statistic published across Open
 
 ## Reports
 
-- Executive AI Statistics — [summary](executive-ai-statistics.md) | [canonical source](https://openfutureforum.com/research/executive-ai-statistics)
+- Executive AI Statistics, September 2026 — [prior-edition repository summary](executive-ai-statistics.md) | [canonical current edition](https://openfutureforum.com/research/executive-ai-statistics-september-2026)
 
 - ## About
 

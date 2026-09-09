@@ -4,7 +4,7 @@ Research reading the supply side of enterprise AI from the founders building it,
 
 ## Reports
 
-- YC Founder AI Report — [summary](yc-founder-ai-report.md) | [canonical source](https://openfutureforum.com/research/yc-founder-ai-report)
+- YC Founder AI Report, September 2026 — [prior-edition repository summary](yc-founder-ai-report.md) | [canonical current edition](https://openfutureforum.com/research/yc-founder-ai-report-september-2026)
 
 ## About
 

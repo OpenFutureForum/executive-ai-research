@@ -4,7 +4,7 @@ Venture capital and corporate venture capital AI investment research published b
 
 ## Reports
 
-- VC & CVC AI Investment Report — [summary](vc-cvc-ai-investment-report.md) | [canonical source](https://openfutureforum.com/research/vc-cvc-ai-investment-report)
+- VC & CVC AI Investment Report, September 2026 — [prior-edition repository summary](vc-cvc-ai-investment-report.md) | [canonical current edition](https://openfutureforum.com/research/vc-cvc-ai-investment-report-september-2026)
 
 - ## About
 

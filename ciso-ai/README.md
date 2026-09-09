@@ -4,7 +4,7 @@ Executive AI research focused on CISOs, security leaders, and cybersecurity func
 
 ## Reports
 
-- CISO AI Leverage Report — [summary](ciso-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-leverage-report)
+- CISO AI Leverage Report, September 2026 — [prior-edition repository summary](ciso-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/ciso-ai-leverage-report-september-2026)
 - CISO AI Market Map — [summary](ciso-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-market-map)
 
 ## About
