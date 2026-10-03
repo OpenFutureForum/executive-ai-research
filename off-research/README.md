@@ -1,6 +1,6 @@
 # Open Future Forum Research Records
 
-This directory entry groups repository records for research published by Open Future Forum. The exact September 2026 publication inventory is maintained in [`data/report-index.json`](../data/report-index.json) and summarized in the [repository README](../README.md).
+This directory entry groups repository records for research published by Open Future Forum. The exact October 2026 publication inventory is maintained in [`data/report-index.json`](../data/report-index.json) and summarized in the [repository README](../README.md).
 
 The complete reports, figures, methodology notes, and limitations remain at the [canonical research index](https://openfutureforum.com/research/). Repository records are descriptive and archival; they are not independent endorsements or replacements for the canonical publications.
 

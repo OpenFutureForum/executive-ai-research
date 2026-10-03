@@ -4,12 +4,12 @@ Executive AI research focused on CISOs, security leaders, and cybersecurity func
 
 ## Reports
 
-- CISO AI Leverage Report, September 2026 — [prior-edition repository summary](ciso-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/ciso-ai-leverage-report-september-2026)
+- CISO AI Leverage Report, October 2026 — [prior-edition repository summary](ciso-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/ciso-ai-leverage-report-october-2026)
 - CISO AI Market Map — [summary](ciso-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-market-map)
 
 ## About
 
-This research draws on first-party surveys, interviews, and discussions with CISOs and security executives in the Open Future Forum network, covering AI adoption in security operations, tooling, and governance.
+The October record covers agent access, security funding, identity practices, and governance using a mixed security-event cohort. “CISO instrument” identifies the question set, not the job title of every respondent; the cohort must not be described as 151 CISOs.
 
 ## Publisher
 

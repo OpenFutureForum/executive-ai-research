@@ -93,8 +93,7 @@ def main() -> None:
     assert parser.industry_links == 5, f"Expected 5 industry collections, found {parser.industry_links}"
     assert parser.canonical == ["https://openfutureforum.github.io/executive-ai-research/"], "Unexpected canonical URL"
     assert parser.json_ld, "JSON-LD is required"
-    for block in parser.json_ld:
-        json.loads(block)
+    json_ld_documents = [json.loads(block) for block in parser.json_ld]
 
     report_index = json.loads(REPORT_INDEX.read_text(encoding="utf-8"))
     reports = report_index.get("reports", [])
@@ -103,6 +102,16 @@ def main() -> None:
     urls = [report.get("canonical_url") for report in reports]
     assert len(ids) == len(set(ids)), "Duplicate report IDs found"
     assert len(urls) == len(set(urls)), "Duplicate canonical report URLs found"
+    missing_current_links = sorted(set(urls) - set(parser.links))
+    assert not missing_current_links, (
+        "Current reports missing from the public library: "
+        + ", ".join(missing_current_links)
+    )
+    repeated_current_links = sorted(url for url in urls if parser.links.count(url) != 1)
+    assert not repeated_current_links, (
+        "Current reports must appear exactly once in the public library: "
+        + ", ".join(repeated_current_links)
+    )
     for report in reports:
         for field in ("id", "title", "edition", "publication_month", "scope", "canonical_url", "repository_record"):
             assert report.get(field), f"Missing {field} in report index entry"
@@ -112,6 +121,30 @@ def main() -> None:
         assert (ROOT / report["repository_record"]).exists(), (
             f"Missing repository record: {report['repository_record']}"
         )
+
+    item_lists: list[dict] = []
+    for document in json_ld_documents:
+        nodes = document.get("@graph", [document]) if isinstance(document, dict) else []
+        for node in nodes:
+            if not isinstance(node, dict) or node.get("@type") != "CollectionPage":
+                continue
+            main_entity = node.get("mainEntity")
+            if isinstance(main_entity, dict) and main_entity.get("@type") == "ItemList":
+                item_lists.append(main_entity)
+
+    assert len(item_lists) == 1, "Expected one current-report ItemList in CollectionPage JSON-LD"
+    item_list = item_lists[0]
+    expected_items = [
+        {
+            "@type": "ListItem",
+            "position": position,
+            "name": report["title"],
+            "url": report["canonical_url"],
+        }
+        for position, report in enumerate(reports, start=1)
+    ]
+    assert item_list.get("numberOfItems") == len(reports), "Structured report count does not match index"
+    assert item_list.get("itemListElement") == expected_items, "Structured report list does not match index"
 
     for reference in parser.links + parser.scripts + parser.styles:
         parsed = urlparse(reference)

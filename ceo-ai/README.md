@@ -4,11 +4,11 @@ Executive AI research focused on CEOs and the top decision-making seat, publishe
 
 ## Reports
 
-- CEO AI Leverage Report, September 2026 — [prior-edition repository summary](ceo-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/ceo-ai-leverage-report-september-2026)
+- CEO AI Leverage Report, October 2026 — [prior-edition repository summary](ceo-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/ceo-ai-leverage-report-october-2026)
 
 ## About
 
-This research draws on first-party surveys, interviews, and discussions with CEOs in the Open Future Forum network, covering AI decision-making authority, mandate, and proof gaps.
+The October record examines executive decision rights using CEO-and-founder title-classified cuts from the current common and finance instruments alongside a separately labeled AI Leaders cohort. No CEO-only instrument was fielded for this edition.
 
 ## Publisher
 

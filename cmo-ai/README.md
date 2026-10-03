@@ -4,12 +4,12 @@ Executive AI research focused on CMOs, marketing leaders, and marketing function
 
 ## Reports
 
-- CMO AI Leverage Report, September 2026 — [prior-edition repository summary](cmo-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/cmo-ai-leverage-report-september-2026)
+- CMO AI Leverage Report, October 2026 — [prior-edition repository summary](cmo-ai-leverage-report.md) | [canonical current edition](https://openfutureforum.com/research/cmo-ai-leverage-report-october-2026)
 - CMO AI Market Map — [summary](cmo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-market-map)
 
 ## About
 
-This research draws on first-party surveys, interviews, and discussions with CMOs and marketing executives in the Open Future Forum network, covering AI adoption in marketing strategy, operations, and technology.
+The October questions were fielded through marketing and go-to-market events and cover workforce capacity, content speed, and customer knowledge. Respondents were not exclusively CMOs, so the findings describe the event cohorts rather than all chief marketing officers.
 
 ## Publisher
 
