@@ -4,15 +4,14 @@ A citable, continuously refreshed index of every statistic published across Open
 
 ## Reports
 
-- Executive AI Statistics, September 2026 — [prior-edition repository summary](executive-ai-statistics.md) | [canonical current edition](https://openfutureforum.com/research/executive-ai-statistics-september-2026)
+- Executive AI Statistics, October 2026 — [prior-edition repository summary](executive-ai-statistics.md) | [canonical current edition](https://openfutureforum.com/research/executive-ai-statistics-october-2026)
 
-- ## About
+## About
 
-- This page compiles every published figure from the CEO, CFO, CMO, CISO, Executive, YC Founder, VC & CVC, and Investor AI reports into single citable sentences, each carrying its response base and a link back to its source report. Refreshed monthly as new editions publish.
+This page compiles every published figure from the CEO, CFO, CMO, CISO, Executive, AI Leaders, Board, YC Founder, VC and CVC, Investor, and dealmaker AI reports into citable records with response bases and links back to their source reports. It is refreshed as new editions publish.
 
-- ## Publisher
+## Publisher
 
 - Open Future Forum
-- https://openfutureforum.com
-- https://openfutureforum.com/research/
-- 
+- [Website](https://openfutureforum.com/)
+- [Research index](https://openfutureforum.com/research/)

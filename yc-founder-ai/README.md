@@ -4,11 +4,11 @@ Research reading the supply side of enterprise AI from the founders building it,
 
 ## Reports
 
-- YC Founder AI Report, September 2026 — [prior-edition repository summary](yc-founder-ai-report.md) | [canonical current edition](https://openfutureforum.com/research/yc-founder-ai-report-september-2026)
+- YC Founder AI Report, October 2026 — [prior-edition repository summary](yc-founder-ai-report.md) | [canonical current edition](https://openfutureforum.com/research/yc-founder-ai-report-october-2026)
 
 ## About
 
-This research draws on first-party surveys with AI founders, covering how they price their products and who they believe holds the AI buying decision inside the companies they sell to. Independent research; not affiliated with or endorsed by Y Combinator.
+The October record retains the latest comparable founder pricing and enterprise buying-doorway baseline because no October event repeated those questions, then pairs it with separately sourced current operator context. Independent research; not affiliated with or endorsed by Y Combinator.
 
 ## Publisher
 

@@ -1,18 +1,17 @@
 # Investor AI
 
-Investor-side AI research reading how AI is showing up across whole venture, growth, and private equity portfolios, published by Open Future Forum.
+Investor-side AI research on operating diligence for AI systems in existing venture, growth, and private equity portfolio companies, published by Open Future Forum.
 
 ## Reports
 
-- Investor AI Report, September 2026 — [prior-edition repository summary](investor-ai-report.md) | [canonical current edition](https://openfutureforum.com/research/investor-ai-report-september-2026)
+- Investor AI Report, October 2026 — [prior-edition repository summary](investor-ai-report.md) | [canonical current edition](https://openfutureforum.com/research/investor-ai-report-october-2026)
 
-- ## About
+## About
 
-- This research reads the AI buying decision and portfolio-level AI impact from across whole investor portfolios rather than single companies, drawing on first-party surveys and discussions from the Open Future Forum investor network.
+The October record is an operating-diligence guide for existing portfolio companies, focused on ownership, workflow cost, access, controls, and measurable results. The separate VC and CVC report owns investment-thesis interpretation and the carried-forward portfolio-impact baseline.
 
-- ## Publisher
+## Publisher
 
 - Open Future Forum
-- https://openfutureforum.com
-- https://openfutureforum.com/research/
-- 
+- [Website](https://openfutureforum.com/)
+- [Research index](https://openfutureforum.com/research/)

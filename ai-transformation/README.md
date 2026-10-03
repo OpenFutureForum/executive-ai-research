@@ -4,11 +4,11 @@ Cross-function research reading how AI adoption is progressing across enterprise
 
 ## Reports
 
-- AI Transformation Report, September 2026 — [prior-edition repository summary](ai-transformation-report.md) | [canonical current edition](https://openfutureforum.com/research/ai-transformation-report-september-2026)
+- AI Transformation Report, October 2026 — [prior-edition repository summary](ai-transformation-report.md) | [canonical current edition](https://openfutureforum.com/research/ai-transformation-report-october-2026)
 
 ## About
 
-This research reads AI transformation across functions on four markers: spend, headcount, work, and governance, drawing on first-party surveys and discussions from the Open Future Forum executive network.
+The October record owns the four-stage maturity question: exploring, piloting, deployed in production, and embedded. Separately labeled production, cost, value, and control evidence provides context; it does not describe one matched cohort unless the report says so.
 
 ## Publisher
 

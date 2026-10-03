@@ -1,8 +1,8 @@
-# General Counsel AI Report
+# The General Counsel AI Report
 
-Legal synthesis on responsibility for AI-agent actions, internal AI use, governance, and vendor contracting.
+Legal synthesis connecting AI-agent authorization, credentials, data scope, vendor terms, escalation, and incident evidence.
 
-**Edition:** Synthesis report, September 2026<br>
-**Canonical publication:** [General Counsel AI Report, September 2026](https://openfutureforum.com/research/dealmakers/general-counsel)
+**Edition:** Synthesis Report, October 2026<br>
+**Canonical publication:** [The General Counsel AI Report, October 2026](https://openfutureforum.com/research/dealmakers/general-counsel-october-2026)
 
 The canonical publication contains the report text, figures, methodology, and limitations. This repository record identifies its place in the research series.
