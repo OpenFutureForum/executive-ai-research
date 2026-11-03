@@ -9,34 +9,34 @@ This repository is an index and archival reading layer for executive AI research
 **Canonical publication index:** [Open Future Forum research](https://openfutureforum.com/research/)<br>
 **Machine-readable current index:** [`data/report-index.json`](data/report-index.json)
 
-## Current publications: October 2026
+## Current publications: November 2026
 
 ### Cross-role and reference
 
-- [Executive AI Leverage Report, October 2026](https://openfutureforum.com/research/executive-ai-leverage-report-october-2026) — cross-role synthesis, Edition 4
-- [AI Transformation Report, October 2026](https://openfutureforum.com/research/ai-transformation-report-october-2026) — cross-function report, Edition 3
-- [Executive AI Statistics, October 2026](https://openfutureforum.com/research/executive-ai-statistics-october-2026) — October data and provenance registry
+- [Executive AI Leverage Report, November 2026](https://openfutureforum.com/research/executive-ai-leverage-report-november-2026) · [Repository summary](executive-ai/2026-11.md)
+- [AI Transformation Report, November 2026](https://openfutureforum.com/research/ai-transformation-report-november-2026) · [Repository summary](ai-transformation/2026-11.md)
+- [Executive AI Statistics, November 2026](https://openfutureforum.com/research/executive-ai-statistics-november-2026) · [Repository summary](executive-ai-statistics/2026-11.md)
 
 ### Executive roles
 
-- [CFO AI Leverage Report, October 2026](https://openfutureforum.com/research/cfo-ai-leverage-report-october-2026) — finance lane, Edition 4
-- [CEO AI Leverage Report, October 2026](https://openfutureforum.com/research/ceo-ai-leverage-report-october-2026) — chief-executive lane, Edition 4
-- [CISO AI Leverage Report, October 2026](https://openfutureforum.com/research/ciso-ai-leverage-report-october-2026) — security lane, Edition 4
-- [CMO AI Leverage Report, October 2026](https://openfutureforum.com/research/cmo-ai-leverage-report-october-2026) — marketing lane, Edition 4
-- [AI Leaders AI Leverage Report, October 2026](https://openfutureforum.com/research/ai-leaders-ai-leverage-report-october-2026) — technology lane, Edition 1
-- [Board Director AI Governance Report, October 2026](https://openfutureforum.com/research/board-director-ai-governance-report-october-2026) — board lane, Preview Edition
+- [CFO AI Leverage Report, November 2026](https://openfutureforum.com/research/cfo-ai-leverage-report-november-2026) · [Repository summary](cfo-ai/2026-11.md)
+- [CEO AI Leverage Report, November 2026](https://openfutureforum.com/research/ceo-ai-leverage-report-november-2026) · [Repository summary](ceo-ai/2026-11.md)
+- [CISO AI Leverage Report, November 2026](https://openfutureforum.com/research/ciso-ai-leverage-report-november-2026) · [Repository summary](ciso-ai/2026-11.md)
+- [CMO AI Leverage Report, November 2026](https://openfutureforum.com/research/cmo-ai-leverage-report-november-2026) · [Repository summary](cmo-ai/2026-11.md)
+- [AI Leaders AI Leverage Report, November 2026](https://openfutureforum.com/research/ai-leaders-ai-leverage-report-november-2026) · [Repository summary](ai-leaders-ai/2026-11.md)
+- [Board Director AI Governance Report, November 2026](https://openfutureforum.com/research/board-director-ai-governance-report-november-2026) · [Repository summary](board-director-ai/2026-11.md)
 
 ### Founders and capital
 
-- [YC Founder AI Report, October 2026](https://openfutureforum.com/research/yc-founder-ai-report-october-2026) — founder lane, Edition 3
-- [VC and CVC AI Investment Report, October 2026](https://openfutureforum.com/research/vc-cvc-ai-investment-report-october-2026) — capital lane, Edition 3
-- [Investor AI Report, October 2026](https://openfutureforum.com/research/investor-ai-report-october-2026) — investor lane, October Data Note
+- [YC Founder AI Report, November 2026](https://openfutureforum.com/research/yc-founder-ai-report-november-2026) · [Repository summary](yc-founder-ai/2026-11.md)
+- [VC and CVC AI Investment Report, November 2026](https://openfutureforum.com/research/vc-cvc-ai-investment-report-november-2026) · [Repository summary](vc-cvc-ai/2026-11.md)
+- [Investor AI Report, November 2026](https://openfutureforum.com/research/investor-ai-report-november-2026) · [Repository summary](investor-ai/2026-11.md)
 
 ### Dealmakers
 
-- [The Private Equity AI Report, October 2026](https://openfutureforum.com/research/dealmakers/private-equity-october-2026) — private-equity synthesis
-- [The Investment Banking AI Report, October 2026](https://openfutureforum.com/research/dealmakers/investment-banking-october-2026) — investment-banking synthesis
-- [The General Counsel AI Report, October 2026](https://openfutureforum.com/research/dealmakers/general-counsel-october-2026) — legal synthesis
+- [Private Equity AI Report, November 2026](https://openfutureforum.com/research/dealmakers/private-equity-november-2026) · [Repository summary](private-equity-ai/2026-11.md)
+- [Investment Banking AI Report, November 2026](https://openfutureforum.com/research/dealmakers/investment-banking-november-2026) · [Repository summary](investment-banking-ai/2026-11.md)
+- [General Counsel AI Report, November 2026](https://openfutureforum.com/research/dealmakers/general-counsel-november-2026) · [Repository summary](general-counsel-ai/2026-11.md)
 
 ## Repository summary records
 
