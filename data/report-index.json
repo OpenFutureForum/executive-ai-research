@@ -2,142 +2,142 @@
   "schema_version": "1.0",
   "publisher": "Open Future Forum",
   "canonical_index": "https://openfutureforum.com/research/",
-  "reviewed": "2026-10-03",
+  "reviewed": "2026-11-03",
   "reports": [
     {
-      "id": "executive-ai-leverage-2026-10",
-      "title": "Executive AI Leverage Report, October 2026",
+      "id": "executive-ai-leverage-2026-11",
+      "title": "Executive AI Leverage Report, November 2026",
+      "edition": "5",
+      "publication_month": "2026-11",
+      "scope": "Cross-functional commitments, evidence handoffs and decision clocks.",
+      "canonical_url": "https://openfutureforum.com/research/executive-ai-leverage-report-november-2026",
+      "repository_record": "executive-ai/2026-11.md"
+    },
+    {
+      "id": "cfo-ai-leverage-2026-11",
+      "title": "CFO AI Leverage Report, November 2026",
+      "edition": "5",
+      "publication_month": "2026-11",
+      "scope": "Finance review of capacity, cash and revenue benefits, conversion, timing and reversal conditions.",
+      "canonical_url": "https://openfutureforum.com/research/cfo-ai-leverage-report-november-2026",
+      "repository_record": "cfo-ai/2026-11.md"
+    },
+    {
+      "id": "ceo-ai-leverage-2026-11",
+      "title": "CEO AI Leverage Report, November 2026",
+      "edition": "5",
+      "publication_month": "2026-11",
+      "scope": "Executive attention, conditional delegation, dependencies and review triggers.",
+      "canonical_url": "https://openfutureforum.com/research/ceo-ai-leverage-report-november-2026",
+      "repository_record": "ceo-ai/2026-11.md"
+    },
+    {
+      "id": "ciso-ai-leverage-2026-11",
+      "title": "CISO AI Leverage Report, November 2026",
+      "edition": "5",
+      "publication_month": "2026-11",
+      "scope": "Security data and a review of revocation, residual authority and restoration.",
+      "canonical_url": "https://openfutureforum.com/research/ciso-ai-leverage-report-november-2026",
+      "repository_record": "ciso-ai/2026-11.md"
+    },
+    {
+      "id": "cmo-ai-leverage-2026-11",
+      "title": "CMO AI Leverage Report, November 2026",
+      "edition": "5",
+      "publication_month": "2026-11",
+      "scope": "Marketing impact, accepted output and a search and answer-engine observation protocol.",
+      "canonical_url": "https://openfutureforum.com/research/cmo-ai-leverage-report-november-2026",
+      "repository_record": "cmo-ai/2026-11.md"
+    },
+    {
+      "id": "ai-transformation-2026-11",
+      "title": "AI Transformation Report, November 2026",
       "edition": "4",
-      "publication_month": "2026-10",
-      "scope": "Cross-role view of AI sign-off, budgets, value evidence, and post-launch control.",
-      "canonical_url": "https://openfutureforum.com/research/executive-ai-leverage-report-october-2026",
-      "repository_record": "executive-ai/README.md"
+      "publication_month": "2026-11",
+      "scope": "Handoff acceptance, capacity destination and dependency evidence.",
+      "canonical_url": "https://openfutureforum.com/research/ai-transformation-report-november-2026",
+      "repository_record": "ai-transformation/2026-11.md"
     },
     {
-      "id": "cfo-ai-leverage-2026-10",
-      "title": "CFO AI Leverage Report, October 2026",
-      "edition": "4",
-      "publication_month": "2026-10",
-      "scope": "Finance evidence on AI funding, ROI blockers, payback expectations, and workflow-level cost visibility.",
-      "canonical_url": "https://openfutureforum.com/research/cfo-ai-leverage-report-october-2026",
-      "repository_record": "cfo-ai/README.md"
+      "id": "ai-leaders-ai-leverage-2026-11",
+      "title": "AI Leaders AI Leverage Report, November 2026",
+      "edition": "2",
+      "publication_month": "2026-11",
+      "scope": "Workflow evaluations, permission changes, exception costs and platform responsibilities.",
+      "canonical_url": "https://openfutureforum.com/research/ai-leaders-ai-leverage-report-november-2026",
+      "repository_record": "ai-leaders-ai/2026-11.md"
     },
     {
-      "id": "ceo-ai-leverage-2026-10",
-      "title": "CEO AI Leverage Report, October 2026",
-      "edition": "4",
-      "publication_month": "2026-10",
-      "scope": "Chief-executive decision-rights framework for AI launch, expansion, pause, and stop authority.",
-      "canonical_url": "https://openfutureforum.com/research/ceo-ai-leverage-report-october-2026",
-      "repository_record": "ceo-ai/README.md"
-    },
-    {
-      "id": "ciso-ai-leverage-2026-10",
-      "title": "CISO AI Leverage Report, October 2026",
-      "edition": "4",
-      "publication_month": "2026-10",
-      "scope": "Security evidence on agent access, AI security funding, and production identity controls.",
-      "canonical_url": "https://openfutureforum.com/research/ciso-ai-leverage-report-october-2026",
-      "repository_record": "ciso-ai/README.md"
-    },
-    {
-      "id": "cmo-ai-leverage-2026-10",
-      "title": "CMO AI Leverage Report, October 2026",
-      "edition": "4",
-      "publication_month": "2026-10",
-      "scope": "Marketing evidence on AI adoption, workforce capacity, content speed, and customer knowledge.",
-      "canonical_url": "https://openfutureforum.com/research/cmo-ai-leverage-report-october-2026",
-      "repository_record": "cmo-ai/README.md"
-    },
-    {
-      "id": "ai-transformation-2026-10",
-      "title": "AI Transformation Report, October 2026",
-      "edition": "3",
-      "publication_month": "2026-10",
-      "scope": "Cross-function maturity view spanning exploration, pilots, deployment, and embedded AI operations.",
-      "canonical_url": "https://openfutureforum.com/research/ai-transformation-report-october-2026",
-      "repository_record": "ai-transformation/README.md"
-    },
-    {
-      "id": "ai-leaders-ai-leverage-2026-10",
-      "title": "AI Leaders AI Leverage Report, October 2026",
-      "edition": "1",
-      "publication_month": "2026-10",
-      "scope": "Technology-seat report on production-agent fleets, cost visibility, bottlenecks, data access, and planned spending.",
-      "canonical_url": "https://openfutureforum.com/research/ai-leaders-ai-leverage-report-october-2026",
-      "repository_record": "ai-leaders-ai/README.md"
-    },
-    {
-      "id": "board-director-ai-governance-2026-10",
-      "title": "Board Director AI Governance Report, October 2026",
+      "id": "board-director-ai-governance-2026-11",
+      "title": "Board Director AI Governance Report, November 2026",
       "edition": "Preview Edition",
-      "publication_month": "2026-10",
-      "scope": "Board-oversight synthesis with dashboard measures, escalation thresholds, and committee ownership.",
-      "canonical_url": "https://openfutureforum.com/research/board-director-ai-governance-report-october-2026",
-      "repository_record": "board-director-ai/README.md"
+      "publication_month": "2026-11",
+      "scope": "Operator-evidence preview covering materiality, assurance, intervention and escalation.",
+      "canonical_url": "https://openfutureforum.com/research/board-director-ai-governance-report-november-2026",
+      "repository_record": "board-director-ai/2026-11.md"
     },
     {
-      "id": "yc-founder-ai-2026-10",
-      "title": "YC Founder AI Report, October 2026",
-      "edition": "3",
-      "publication_month": "2026-10",
-      "scope": "Founder evidence on AI pricing and enterprise buying doorways, paired with separately sourced operator evidence on production constraints.",
-      "canonical_url": "https://openfutureforum.com/research/yc-founder-ai-report-october-2026",
-      "repository_record": "yc-founder-ai/README.md"
+      "id": "yc-founder-ai-2026-11",
+      "title": "YC Founder AI Report, November 2026",
+      "edition": "4",
+      "publication_month": "2026-11",
+      "scope": "A founder pricing experiment linking acceptance, review effort and buying authority.",
+      "canonical_url": "https://openfutureforum.com/research/yc-founder-ai-report-november-2026",
+      "repository_record": "yc-founder-ai/2026-11.md"
     },
     {
-      "id": "vc-cvc-ai-investment-2026-10",
-      "title": "VC and CVC AI Investment Report, October 2026",
-      "edition": "3",
-      "publication_month": "2026-10",
-      "scope": "Capital-lane evidence translating portfolio ownership and reported AI impact into investment-thesis tests.",
-      "canonical_url": "https://openfutureforum.com/research/vc-cvc-ai-investment-report-october-2026",
-      "repository_record": "vc-cvc-ai/README.md"
+      "id": "vc-cvc-ai-investment-2026-11",
+      "title": "VC and CVC AI Investment Report, November 2026",
+      "edition": "4",
+      "publication_month": "2026-11",
+      "scope": "A thesis test for customer choice, delivery costs, durability and corporate venture objectives.",
+      "canonical_url": "https://openfutureforum.com/research/vc-cvc-ai-investment-report-november-2026",
+      "repository_record": "vc-cvc-ai/2026-11.md"
     },
     {
-      "id": "investor-ai-2026-10",
-      "title": "Investor AI Report, October 2026",
-      "edition": "October Data Note",
-      "publication_month": "2026-10",
-      "scope": "Investor operating-diligence note covering AI ownership, cost, data access, controls, and measurable value.",
-      "canonical_url": "https://openfutureforum.com/research/investor-ai-report-october-2026",
-      "repository_record": "investor-ai/README.md"
+      "id": "investor-ai-2026-11",
+      "title": "Investor AI Report, November 2026",
+      "edition": "Updated data note and operating report",
+      "publication_month": "2026-11",
+      "scope": "Evidence repair with company ownership, closure criteria and corrections.",
+      "canonical_url": "https://openfutureforum.com/research/investor-ai-report-november-2026",
+      "repository_record": "investor-ai/2026-11.md"
     },
     {
-      "id": "private-equity-ai-2026-10",
-      "title": "The Private Equity AI Report, October 2026",
-      "edition": "Synthesis Report",
-      "publication_month": "2026-10",
-      "scope": "Private-equity synthesis for AI diligence, value creation, remediation cost, and post-close integration.",
-      "canonical_url": "https://openfutureforum.com/research/dealmakers/private-equity-october-2026",
-      "repository_record": "private-equity-ai/README.md"
+      "id": "private-equity-ai-2026-11",
+      "title": "Private Equity AI Report, November 2026",
+      "edition": "Transaction and operating synthesis",
+      "publication_month": "2026-11",
+      "scope": "Test rights, people, systems and benefit transferability across a deal.",
+      "canonical_url": "https://openfutureforum.com/research/dealmakers/private-equity-november-2026",
+      "repository_record": "private-equity-ai/2026-11.md"
     },
     {
-      "id": "investment-banking-ai-2026-10",
-      "title": "The Investment Banking AI Report, October 2026",
-      "edition": "Synthesis Report",
-      "publication_month": "2026-10",
-      "scope": "Investment-banking synthesis connecting AI usage, recognized revenue, delivery cost, margin sensitivity, and disclosure.",
-      "canonical_url": "https://openfutureforum.com/research/dealmakers/investment-banking-october-2026",
-      "repository_record": "investment-banking-ai/README.md"
+      "id": "investment-banking-ai-2026-11",
+      "title": "Investment Banking AI Report, November 2026",
+      "edition": "Revenue-quality and transaction synthesis",
+      "publication_month": "2026-11",
+      "scope": "Reconcile eligible units, invoices, revenue, collections and contribution.",
+      "canonical_url": "https://openfutureforum.com/research/dealmakers/investment-banking-november-2026",
+      "repository_record": "investment-banking-ai/2026-11.md"
     },
     {
-      "id": "general-counsel-ai-2026-10",
-      "title": "The General Counsel AI Report, October 2026",
-      "edition": "Synthesis Report",
-      "publication_month": "2026-10",
-      "scope": "Legal synthesis covering AI-agent authorization, credentials, data scope, vendor terms, escalation, and incident evidence.",
-      "canonical_url": "https://openfutureforum.com/research/dealmakers/general-counsel-october-2026",
-      "repository_record": "general-counsel-ai/README.md"
+      "id": "general-counsel-ai-2026-11",
+      "title": "General Counsel AI Report, November 2026",
+      "edition": "Legal and operating synthesis",
+      "publication_month": "2026-11",
+      "scope": "Connect contract promises, configured authority, evidence ownership and incident clocks.",
+      "canonical_url": "https://openfutureforum.com/research/dealmakers/general-counsel-november-2026",
+      "repository_record": "general-counsel-ai/2026-11.md"
     },
     {
-      "id": "executive-ai-statistics-2026-10",
-      "title": "Executive AI Statistics, October 2026",
-      "edition": "October refresh",
-      "publication_month": "2026-10",
-      "scope": "Canonical October registry for question wording, response bases, distributions, exhibits, provenance, and downloads.",
-      "canonical_url": "https://openfutureforum.com/research/executive-ai-statistics-october-2026",
-      "repository_record": "executive-ai-statistics/README.md"
+      "id": "executive-ai-statistics-2026-11",
+      "title": "Executive AI Statistics, November 2026",
+      "edition": "Complete question registry",
+      "publication_month": "2026-11",
+      "scope": "Question registry, cumulative updates, historical reconciliation and source manifest.",
+      "canonical_url": "https://openfutureforum.com/research/executive-ai-statistics-november-2026",
+      "repository_record": "executive-ai-statistics/2026-11.md"
     }
   ]
 }
